@@ -1,22 +1,96 @@
-<h1 align="center">Hi 👋, I'm CurtisTz</h1>
-<h3 align="center">A passionate software developer from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=curtistz&label=Profile%20views&color=0e75b6&style=flat" alt="curtistz" /> </p>
+<h1 align="center">Hi 👋, I'm Curtis</h1>
+<h3 align="center">Software Developer from Taiwan 🇹🇼</h3>
 
-- 🌱 I’m currently learning **Python/C#**
+<p align="center">
+  <a href="mailto:bugerham@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-- 📫 How to reach me **bugerham@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  <a href="https://github.com/CurtisTz">
+    <img src="https://img.shields.io/github/followers/CurtisTz?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curtistz&show_icons=true&locale=en&layout=compact" alt="curtistz" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curtistz&show_icons=true&locale=en" alt="curtistz" /></p>
+- 🌱 Currently learning **Python / C# / React**
+- 💻 Interested in:
+  - Automation Testing
+  - Web Development
+  - CI/CD
+  - Python Automation
+- ⚡ Building real-world side projects
+- 📫 Reach me: **bugerham@gmail.com**
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cs,django,git,github,jenkins,mysql,sqlite,qt,selenium,react,vscode&perline=6" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img 
+src="https://streak-stats.demolab.com?user=CurtisTz&theme=tokyonight&hide_border=true" 
+/>
+
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Learn Full Stack Development
+- Build Real-world Applications
+- Improve English Communication
+- Become a Professional Software Engineer
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 Japan Travel Data Analysis
+PTT crawler with:
+- Python
+- Selenium
+- SQLite
+- Jieba NLP Analysis
+
+### 🤖 LINE Bot Automation
+Integrated:
+- Flask
+- Web Scraping
+- Database Storage
+- Auto Analysis
+
+### 📂 File Organizer Tool
+Automatically categorizes files by:
+- Extension
+- Date
+- Folder Rules
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=CurtisTz&theme=tokyo-night&hide_border=true" 
+/>
+
+</p>
 
 
 

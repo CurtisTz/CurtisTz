@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Python / C# / React**
+- 🌱 Currently learning **C/JAVA/Linux/MCU/Python / C# / React**
 - 💻 Interested in:
   - Automation Testing
   - Web Development
